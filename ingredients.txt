@@ -1,0 +1,5 @@
+cups 2 water
+cups 0.25 beans
+cups 2 water
+cups 0.25 beans
+ml 100 milk
